@@ -8,5 +8,10 @@ KungFu Panda game is a computer game that I have developed since I’m a first-y
 * [Video Presentation](https://youtu.be/IrOYQ-4LHQY)
 * [Mancala](https://youtu.be/51RvDiHQ-iI)
 
+# How to run
+
+```
+open project in your favourite editor and run main.py
+```
 
 
